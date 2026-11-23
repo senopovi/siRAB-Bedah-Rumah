@@ -1,0 +1,6 @@
+{
+  "name": "SiRAB Bedah Rumah",
+  "description": "Aplikasi verifikasi faktual dan perhitungan otomatis Rencana Anggaran Biaya (RAB) konstruksi bedah rumah meliputi input material, keswadayaan, dan upah tenaga kerja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
